@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set =new HashSet<>();
